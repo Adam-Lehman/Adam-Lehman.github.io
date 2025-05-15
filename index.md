@@ -1,7 +1,5 @@
 # Hello, my name is __Adam Lehman__
 
-![Profile Picture](img/Backpacking_Photo_ESIIL.jpg)
-<img 
   src="/img/Backpacking_Photo_ESIIL.jpg" 
   width="75%">
 
