@@ -1,1 +1,2 @@
-#An outstanding Earth Data Science Portfolio
+# My name is **Adam Lehman**
+
