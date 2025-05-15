@@ -1,4 +1,4 @@
-# My name is **Adam** **Lehman**
+# My name is __Adam Lehman__
 
 # Email: AdamLehman777@gmail.com
 
