@@ -9,3 +9,4 @@
 ## GIS Certificate from Metropolitan University
 
 ## I am excited to learn as much as I can about Earth Data Science. I have taken a GIS programming class, but looking forward to learning more about how it can be utilized. 
+![Profile Picture](img/Backpacking_Photo_ESIIL.jpg)
