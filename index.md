@@ -1,7 +1,4 @@
----
-layout: default
-title: Home
----
+_config.yml
 
 # Hello, my name is __Adam Lehman__.
 ## Welcome to my page!
