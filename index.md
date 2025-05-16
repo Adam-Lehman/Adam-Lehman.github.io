@@ -8,21 +8,32 @@
 
 #### I am a big environmentalist and have a passion for protecting our planet, so I am excited to be a part of the ESIIL Stars program this summer. I can't wait to further my knowledge of geographic information systems and learn more about earth data science. I studied GIS Programming at MSU Denver where we worked with Python and I am looking forward to expanding my knowledge with ESIIL.
 
+___
 
 ## Contact Information 
 #### Email: AdamLehman777@gmail.com
 #### LinkedIn: https://www.linkedin.com/in/adam-lehman777/
 
+___
+
 ## Education 
 #### - Bachelors Degree from Ball State University
 #### - GIS Certificate from Metropolitan University
+
+___
 
 ## Projects
 
 <img src="img/SFH Hot Spots.jpg" width="1000">
 
+___
+
 <img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="1000">
+
+___
 
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
+
+___
