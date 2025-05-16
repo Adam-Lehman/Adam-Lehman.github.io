@@ -171,9 +171,9 @@ plt.show()
 library_population_table = all_libraries[['NBHD_NAME', 'People_Served_Per_Library']]
 
 # Display the table
-library_population_table'''
+library_population_table
 
 ```
 ___
 
-###### Site Created by Adam Lehman. Last updated on May 15, 2025.
+###### Site Created by Adam Lehman. Last updated on May 16, 2025.
