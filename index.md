@@ -1,4 +1,16 @@
-
+<a href="/projects" style="
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #e74c3c;
+  color: white;
+  padding: 10px 40px 10px 10px;
+  font-weight: bold;
+  text-decoration: none;
+  z-index: 1000;
+  border-bottom-right-radius: 10px;">
+  View Projects
+</a>
 
 # Hello, my name is __Adam Lehman__.
 ## Welcome to my page!
