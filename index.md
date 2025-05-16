@@ -34,7 +34,7 @@ ___
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
-<h3><span style="color: orange;">A fun "Wordle" game in Python. Copy this code and play!</span></h3>
+<h3><span style="color: orange;">A fun "Wordle" game in Python. Copy this code into Google Colab and play!</span></h3>
 
 ```python
 
