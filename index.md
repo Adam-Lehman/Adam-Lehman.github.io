@@ -12,8 +12,10 @@
   View Projects
 </a>
 
-# Hello, my name is __Adam Lehman__.
-## Welcome to my page!
+<h1><span style="color: orange;">Hello, my name is __Adam Lehman__.</span></h1>
+
+<h2><span style="color: orange;">Welcome to my page!</span></h2>
+
 ![Profile Picture](img/Backpacking_Photo_ESIIL.jpg)
 ## __About Me__
 #### I grew up in Middlebury, Indiana and have lived in Colorado for the past 10 years. In 2019, I thru-hiked the Colorado Trail and shortly after I discovered the world of GIS. After spending 49 days on trail, I realized how much I love looking at maps and analyzing spatial data. When I got off trail, I began looking at GIS programs. It wasn't until the fall of 2023 that I went back to school due to several reasons, but I am excited to begin a new career. 
@@ -46,7 +48,8 @@ ___
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
-### A fun "Wordle" game in Python. Copy this code and play!
+<h3><span style="color: orange;">A fun "Wordle" game in Python. Copy this code and play!</span></h3>
+
 ```python
 
 import string
@@ -118,9 +121,7 @@ for guess in range(0,numOfTries):
 prGreen("Thank you for playing the game.")'''
 
 ```
-<h3><span style="color: yellow;">My Programming Final Project</span></h3>
-
-### My Programming Final Project
+<h3><span style="color: orange;">My Programming Final Project</span></h3>
 
 ```python
 
