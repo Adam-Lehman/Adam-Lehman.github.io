@@ -30,7 +30,7 @@ ___
 
 ## __Education__
 #### - Bachelors Degree from Ball State University
-#### - GIS Certificate from Metropolitan University
+#### - GIS Certificate from Metropolitan State University
 
 ___
 
