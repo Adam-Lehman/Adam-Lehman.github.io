@@ -46,6 +46,147 @@ ___
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
+### A fun "Wordle" game in Python. Copy this code and play!
+```python
+
+import string
+
+## add color when printing
+def prRed(skk): print("\033[91m {}\033[00m" .format(skk))
+def prGreen(skk): print("\033[92m {}\033[00m" .format(skk))
+
+#print in bold
+def prBold(skk): print("\033[1m{}\033[0m" .format(skk))
+
+## pick a random word from list
+import random
+
+def choose_random_word():
+    word_list = ['RHYTHMS', 'PYTHONS', 'COURAGE', 'SNOWING', 'MONKEYS', 'TURTLES']
+    return random.choice(word_list)
+
+wordleWord = choose_random_word()
+
+# setup of our variables
+numOfTries = 7
+wordSize = 7
+guesses = []
+results = []
+for i in range(numOfTries):
+  guesses.append('')
+  results.append('')
+order = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh']
+
+## use a for loop to iterate over each try
+for guess in range(0,numOfTries):
+
+
+  ## input the guess and check that it's valid
+  validGuess = False
+  while not validGuess:
+    guesses[guess] = input("What is your "+order[guess]+" guess?").upper()
+    ## check if guess is exaclty wordSize characters
+    if len(guesses[guess]) == wordSize:
+      validGuess = True
+    else:
+      prRed("Guess must be "+str(wordSize)+" letters. Try again.")
+    ## lets check that all wordSize characters are letters
+    for letter in guesses[guess]:
+      if letter not in string.ascii_uppercase:
+        validGuess = False
+        prRed("Guess must be all letters. Try again.")
+
+  ## check each letter for existing in wordleWord
+  for i in range(len(wordleWord)):
+    if guesses[guess][i] == wordleWord[i]:
+      results[guess] += wordleWord[i]
+    elif guesses[guess][i] in wordleWord:
+      results[guess] += guesses[guess][i].lower()
+    else:
+      results[guess] += '-'
+
+  ## print the previous guesses and results
+  for i in range(len(guesses)):
+    print(guesses[i], results[i])
+
+  ## check if the user has won
+  if results[guess] == wordleWord:
+    prBold("Congratulations, YOU WON!")
+    break
+
+#Thanks for playing in green
+prGreen("Thank you for playing the game.")'''
+
+```
+<h3><span style="color: yellow;">My Programming Final Project</span></h3>
+
+### My Programming Final Project
+
+```python
+
+# Import geopandas
+import geopandas as gpd
+
+# Install mapclassify
+!pip3 install mapclassify
+
+# Install and import contextily
+!pip install contextily
+import contextily
+
+# Import matplotlib.pyplot
+import matplotlib.pyplot as plt
+# Import libraries data
+libraries = gpd.read_file("https://www.denvergov.org/media/gis/DataCatalog/libraries/shape/libraries.zip")
+
+# Import neighborhood data
+neighborhood = gpd.read_file("https://www.denvergov.org/media/gis/DataCatalog/american_community_survey_nbrhd_2016_2020/shape/american_community_survey_nbrhd_2016_2020.zip")
+
+# Creat a spatial join between libraries and neighborhoods
+libraries_neighborhood = gpd.sjoin(neighborhood, libraries, how='inner', predicate='contains')
+
+# Calculate the number of libraries in each neighborhood
+library_values = libraries_neighborhood.groupby('NBHD_NAME').size()
+library_values.name = 'Libraries Per Neighborhood'
+library_values = gpd.GeoDataFrame(library_values)
+
+# Merge values of libary_values layer to the neighborhood  data to show the number libraries per neighborhood
+all_libraries = neighborhood.merge(library_values, on="NBHD_NAME")
+
+# Define custom colormap
+import matplotlib.colors as mcolors
+colors = ['lightblue', 'orange']
+cmap = mcolors.ListedColormap(colors)
+
+# Plot the number of libraries per neighborhood
+# Adjust map size
+# Create a legend, set colorscheme, set title
+fig, ax = plt.subplots(figsize=(12, 8))
+all_libraries.plot(column="Libraries Per Neighborhood", legend=True, edgecolor='black',linewidth=1.3, cmap=cmap, ax=ax)
+contextily.add_basemap(ax, crs=all_libraries.crs.to_string())
+ax.set_title("Libraries Per Neighborhood")
+plt.show()
+
+# Print Libraries Per Neighborhood table
+library_values
+
+# Calculate number of people served per library within each neighborhood
+all_libraries['People_Served_Per_Library'] = all_libraries['TTL_POPULA'] / all_libraries['Libraries Per Neighborhood']
+
+# Plot the number of people served by each library per neighborhood
+fig, ax = plt.subplots(figsize=(12, 8))
+all_libraries.plot(column="People_Served_Per_Library", legend=True,edgecolor='black',linewidth=1.3, cmap="Greens", ax=ax)
+contextily.add_basemap(ax, crs=all_libraries.crs.to_string())
+ax.set_title("People Served Per Library Per Neighborhood")
+plt.show()
+
+# Select the relevant columns for the table
+library_population_table = all_libraries[['NBHD_NAME', 'People_Served_Per_Library']]
+
+# Display the table
+library_population_table'''
+
+```
 ___
 
 ###### Site Created by Adam Lehman. Last updated on May 15, 2025.
