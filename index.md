@@ -19,9 +19,10 @@
 
 ## Projects
 
-<img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="600">
+<img src="img/SFH Hot Spots.jpg" width="1000">
+
+<img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="1000">
 
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
-
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="600px" type="application/pdf">
