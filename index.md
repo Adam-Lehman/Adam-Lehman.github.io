@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # Hello, my name is __Adam Lehman__.
 ## Welcome to my page!
 ![Profile Picture](img/Backpacking_Photo_ESIIL.jpg)
