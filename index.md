@@ -47,3 +47,5 @@ ___
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
 ___
+
+###### Site Created by Adam Lehman. Last updated on May 15, 2025.
