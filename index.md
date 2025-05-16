@@ -18,4 +18,5 @@
 #### - GIS Certificate from Metropolitan University
 
 ## Projects
-![Map of CT & 14ers](img/CT%20%26%2014ers.jpg)
+
+<img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="600">
