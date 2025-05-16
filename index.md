@@ -18,5 +18,4 @@
 #### - GIS Certificate from Metropolitan University
 
 ## Projects
-
-
+![Profile Picture](CT & 14ers (1).jpg)
