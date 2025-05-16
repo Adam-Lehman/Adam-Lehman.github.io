@@ -38,16 +38,9 @@ ___
 
 <img src="img/SFH Hot Spots.jpg" width="1000">
 
-___
-
 <img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="1000">
 
-___
-
 <img src="img/Precip Totals Central CO - March 2020.jpg" width="1000">
-
-
-___
 
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
