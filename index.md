@@ -1,18 +1,4 @@
-<a href="/projects" style="
-  position: absolute;
-  top: 0;
-  left: 0;
-  background: #e74c3c;
-  color: white;
-  padding: 10px 40px 10px 10px;
-  font-weight: bold;
-  text-decoration: none;
-  z-index: 1000;
-  border-bottom-right-radius: 10px;">
-  View Projects
-</a>
-
-<h1><span style="color: orange;">Hello, my name is __Adam Lehman__.</span></h1>
+<h1><span style="color: orange;">Hello, my name is Adam Lehman.</span></h1>
 
 <h2><span style="color: orange;">Welcome to my page!</span></h2>
 
