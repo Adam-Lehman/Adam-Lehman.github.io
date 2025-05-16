@@ -20,3 +20,5 @@
 ## Projects
 
 <img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="600">
+
+<embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="600px" type="application/pdf">
