@@ -1,6 +1,6 @@
-<h1><span style="color: orange;">Hello, my name is Adam Lehman.</span></h1>
+<h1><span style="color: cyan;"><strong>Hello, my name is Adam Lehman.</strong></span></h1>
 
-<h2><span style="color: orange;">Welcome to my page!</span></h2>
+<h2><span style="color: cyan;">Welcome to my page!</span></h2>
 
 ![Profile Picture](img/Backpacking_Photo_ESIIL.jpg)
 ## __About Me__
