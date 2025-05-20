@@ -1,6 +1,6 @@
 # Hello, my name is __Adam Lehman__
 
-<h2><span style="color: LightSkyBlue;">Welcome to my page!</span></h2>
+<h2><span style="color: Gold;">Welcome to my page!</span></h2>
 
 <img src="img/Backpacking_Photo_ESIIL.jpg" width="750">
 
