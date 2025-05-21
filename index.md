@@ -11,12 +11,14 @@
 
 #### I am an environmentalist and have a great passion for protecting our planet, so I am excited to be a part of the ESIIL Stars program this summer. I can't wait to further my knowledge of geographic information systems and learn more about earth data science. I have some experience with coding and looking forward to improving those skills over the coming months.
 &nbsp;
+
 ___
 
 ## __Contact Information__ 
 #### Email: AdamLehman777@gmail.com
 #### LinkedIn: <a href="https://www.linkedin.com/in/adam-lehman777/" target="_blank">Adam-Lehman777</a>
 &nbsp;
+
 ___
 
 ## __Education__
@@ -25,12 +27,14 @@ ___
 #### <a href="https://www.bsu.edu/" target="_blank">Ball State University</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelors of General Studies with Philosophy and Entrepreneurship Minors (2014)
 &nbsp;
+
 ___
 
 ## __Organizations__
 #### <a href="https://www.esri.com/en-us/about/ypn/overview" target="_blank">Esri's Young Professionals Network</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Member (2024 - present)
 &nbsp;
+
 ___
 
 ## __Projects__
