@@ -43,11 +43,11 @@ ___
 
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
-<img src="img/NDVI Layout.jpg" width="500"> <img src="img/NDVI and Watershed Model (1).svg" width="500">
-<img src="img/Dam Location Layout.jpg" width="500">
-<img src="img/Slope Cost Distance Layout.jpg" width="750">
+<img src="img/NDVI Layout.jpg" width="750"> 
+<img src="img/Dam Location Layout.jpg" width="750"> 
+<img src="img/Slope Cost Distance Layout.jpg" width="750"> 
+<img src="img/Slope Cost Distance Model.svg" width="500"> <img src="img/NDVI and Watershed Model (1).svg" width="500">
 
-<img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
 
