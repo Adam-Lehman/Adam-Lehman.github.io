@@ -13,7 +13,9 @@ ___
 
 ## __Contact Information__ 
 #### Email: AdamLehman777@gmail.com
-#### LinkedIn: [Adam-Lehman777](https://www.linkedin.com/in/adam-lehman777/)
+#### LinkedIn: <a href="https://www.linkedin.com/in/adam-lehman777/" target="_blank">Adam-Lehman777</a>
+
+
 
 ___
 
