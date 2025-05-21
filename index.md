@@ -12,8 +12,8 @@
 ___
 
 ## __Contact Information__ 
-#### Email: AdamLehman777@gmail.com
-#### LinkedIn: https://www.linkedin.com/in/adam-lehman777/
+#### Email: [AdamLehman777@gmail.com](AdamLehman777@gmail.com)
+#### LinkedIn: [Adam-Lehman777](https://www.linkedin.com/in/adam-lehman777/)
 
 ___
 
