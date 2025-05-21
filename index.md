@@ -18,8 +18,10 @@ ___
 ___
 
 ## __Education__
-#### - Bachelors Degree from Ball State University
-#### - GIS Certificate from Metropolitan State University
+#### [Metropolitan State University](https://www.msudenver.edu/)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GIS Certificate
+#### [Ball State University](https://www.bsu.edu/)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelors of General Studies with Philosophy and Entrepreneurship Minors
 
 ___
 
@@ -189,4 +191,4 @@ library_population_table
 ```
 ___
 
-###### Site Created by Adam Lehman. Last updated on May 16, 2025.
+###### Site Created by Adam Lehman. Last updated on May 20, 2025.
