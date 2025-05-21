@@ -26,7 +26,7 @@ ___
 ___
 
 ## __Organizations__
-#### <a href="https://www.esri.com/en-us/about/events/young-professionals-network" target="_blank">Esri's Young Professionals Network</a>
+#### <a href="https://www.esri.com/en-us/about/ypn/overview" target="_blank">Esri's Young Professionals Network</a>
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Member (2024 - present)
 
 ___
