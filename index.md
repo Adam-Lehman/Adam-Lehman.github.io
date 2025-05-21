@@ -35,43 +35,78 @@ ___
 
 <img src="img/SFH Hot Spots.jpg" width="750">
 
+&nbsp;
+
+&nbsp;
+
 <img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="750">
+
+&nbsp;
+
+&nbsp;
 
 <img src="img/Precip Totals Central CO - March 2020.jpg" width="750">
 
+&nbsp;
+
+&nbsp;
+
 <img src="img/Skate Park Suitability Layout.jpg" width="750">
 
+&nbsp;
+
+&nbsp;
+
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
+
+&nbsp;
+
+&nbsp;
 
 <img src="img/NDVI Layout.jpg" width="750"> 
 <a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/NDVI and Watershed Model (1).svg" target="_blank">
   ModelBuilder Workflow of the Map Above ^
 </a>
 
+&nbsp;
+
+&nbsp;
+
 <img src="img/Dam Location Layout.jpg" width="750"> 
 <a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/NDVI and Watershed Model (1).svg" target="_blank">
   ModelBuilder Workflow of the Map Above ^
 </a>
+
+&nbsp;
+
+&nbsp;
 
 <img src="img/Slope Cost Distance Layout.jpg" width="750"> 
 <a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/Slope Cost Distance Model.svg" target="_blank">
   ModelBuilder Workflow of the Map Above ^
 </a>
 
+&nbsp;
+
+&nbsp;
+
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
+&nbsp;
 
-
+&nbsp;
 
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
+&nbsp;
 
-
-
+&nbsp;
 
 <h2><span style="color: orange;">A fun "Wordle" game in Python. Copy this code into Google Colab and play!</span></h2>
+
+&nbsp;
 
 ```python
 
@@ -145,9 +180,9 @@ prGreen("Thank you for playing the game.")'''
 
 ```
 
+&nbsp;
 
-
-
+&nbsp;
 
 <h2><span style="color: orange;">My Programming Final Project</span></h2>
 
