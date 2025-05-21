@@ -104,6 +104,12 @@ ___
 
 &nbsp;
 
+<img src="img/Chicago Communities Elevation.jpg" width="750">
+
+&nbsp;
+
+&nbsp;
+
 <h2><span style="color: orange;">A fun "Wordle" game in Python. Copy this code into Google Colab and play!</span></h2>
 
 &nbsp;
