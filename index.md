@@ -44,9 +44,19 @@ ___
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
 <img src="img/NDVI Layout.jpg" width="750"> 
+<a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/NDVI and Watershed Model (1).svg" target="_blank">
+  ModelBuilder Workflow of the Map Above ^
+</a>
+
 <img src="img/Dam Location Layout.jpg" width="750"> 
+<a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/NDVI and Watershed Model (1).svg" target="_blank">
+  ModelBuilder Workflow of the Map Above ^
+</a>
+
 <img src="img/Slope Cost Distance Layout.jpg" width="750"> 
-<img src="img/Slope Cost Distance Model.svg" width="500"> <img src="img/NDVI and Watershed Model (1).svg" width="500">
+<a href="https://github.com/Adam-Lehman/Adam-Lehman.github.io/raw/main/img/Slope Cost Distance Model.svg" target="_blank">
+  ModelBuilder Workflow of the Map Above ^
+</a>
 
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
