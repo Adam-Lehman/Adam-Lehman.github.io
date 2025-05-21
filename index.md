@@ -19,9 +19,15 @@ ___
 
 ## __Education__
 #### [Metropolitan State University](https://www.msudenver.edu/)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GIS Certificate
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - GIS Certificate (2025)
 #### [Ball State University](https://www.bsu.edu/)
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelors of General Studies with Philosophy and Entrepreneurship Minors
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Bachelors of General Studies with Philosophy and Entrepreneurship Minors (2014)
+
+___
+
+## __Organizations__
+#### [Esri's Young Professionals Network](https://www.esri.com/en-us/about/ypn/overview)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Member (2024 - present)
 
 ___
 
