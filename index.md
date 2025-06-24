@@ -97,12 +97,6 @@ ___
 
 &nbsp;
 
-<img src="img/CO Snowfall Ski Resorts.jpg" width="750">
-
-&nbsp;
-
-&nbsp;
-
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
