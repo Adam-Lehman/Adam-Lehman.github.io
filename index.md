@@ -97,6 +97,11 @@ ___
 
 &nbsp;
 
+[Tutorial - Step by Step Process of a Project](Tutorial%20-%20Step%20by%20Step%20Process%20of%20a%20Project.docx.pdf)
+
+<embed src="Tutorial%20-%20Step%20by%20Step%20Process%20of%20a%20Project.docx.pdf" 
+  width="100%" height="500px" type="application/pdf">
+
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
