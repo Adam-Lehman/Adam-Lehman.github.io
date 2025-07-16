@@ -112,6 +112,12 @@ ___
 <embed src="Tutorial%20-%20Step%20by%20Step%20Process%20of%20a%20Project.docx.pdf" 
   width="100%" height="500px" type="application/pdf">
 
+&nbsp;
+
+&nbsp;
+
+#### For my Remote Sensing class final project and subsequent presentation slides, I analyzed the Denver Metro Area to see how the vegetation has changed from 1991 to 2023. For this analysis, I gathered data from the USGS Earth Explorer with imagery from Landsat 5 and 8. Great care was taken to ensure the correct bands from each satellite were used to produce correct results as Landsat 5 and 8 have different band designations. 
+
 [Remote Sensing - Denver Vegetation Change - Final Project (PDF)](Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf)
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
