@@ -46,11 +46,15 @@ ___
 
 &nbsp;
 
+#### During the summer of 2019, I hiked the Colorado trail, so I wanted to create a final project for my Cartography class that touched on that experience. For this map, I gathered data from the ArcGIS Online Portal for the mountain peaks, Colorado Trail route, vector layers of the roadways, rivers, and bodies of water. Each layer was then edited to properly display the day in an aesthetic manner. All labels were converted to annotations and placed accordingly, an appropriate color scheme was decided upon, and a hill shade layer was added for depth. Looking back, a cleaner scale should have been used such as 1:280,000 or something of the like.
+
 <img src="img/CT%20%26%2014ers.jpg" alt="Map of CT & 14ers" width="750">
 
 &nbsp;
 
 &nbsp;
+
+#### As is stated in the map, this is a visualization of how interpolation methods produce varying results. Inverse Distance Weighting, Natural (Nearest) Neighbor, and Radial Basis Functions were used to show their differences. 
 
 <img src="img/Precip Totals Central CO - March 2020.jpg" width="750">
 
@@ -63,6 +67,8 @@ ___
 &nbsp;
 
 &nbsp;
+
+#### In this project, I downloaded data showing the average amount of snowfall for the Central Colorado Mountains to determine which ski resorts received the most snowfall. The most recent data available was from 2015-2019. I curated the roadmaps with data from the ArcGIS Portal as well as the hillshade layer.
 
 <img src="img/CO Snowfall Ski Resorts.jpg" width="750">
 
@@ -97,6 +103,10 @@ ___
 
 &nbsp;
 
+#### For this project, I created a mosaic of 2 DEM raster files collected from the USGS Earth Explorer website. I then combined this information with the shapefile of Chicago, IL communities from the City of Chicago Data Portal to calculate the average elevation for each neighborhood. In the space below the map is a full step-by-step write up of how this map was created and the processes involved. 
+
+<img src="img/Chicago Communities Elevation.jpg" width="750">
+
 [Tutorial - Step by Step Process of a Project](Tutorial%20-%20Step%20by%20Step%20Process%20of%20a%20Project.docx.pdf)
 
 <embed src="Tutorial%20-%20Step%20by%20Step%20Process%20of%20a%20Project.docx.pdf" 
@@ -106,11 +116,6 @@ ___
 
 <embed src="Remote%20Sensing%20-%20Denver%20Vegetation%20Change%20-%20Final%20Project.pdf" width="100%" height="500px" type="application/pdf">
 
-&nbsp;
-
-&nbsp;
-
-<img src="img/Chicago Communities Elevation.jpg" width="750">
 
 &nbsp;
 
