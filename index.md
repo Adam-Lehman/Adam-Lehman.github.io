@@ -9,7 +9,7 @@
 
 #### I grew up in Middlebury, Indiana and have lived in Colorado for the past 10 years. In 2019, I thru-hiked the Colorado Trail and it was around that time that I discovered the world of GIS. After spending 49 days on trail, I realized how much I love looking at maps and analyzing spatial data. When I got off trail, I began looking at GIS programs. It wasn't until the fall of 2023 that I went back to school due to several reasons, but I am excited to begin a new career. 
 
-#### I am an environmentalist and have a great passion for protecting our planet, so I am excited to be a part of the ESIIL Stars program this summer. I can't wait to further my knowledge of geographic information systems and learn more about earth data science. I have some experience with coding and looking forward to improving those skills over the coming months.
+#### During my time at Metropolitan State University of Denver, I studied a range of geographic information systems. I am well versed in GIS Principles and experienced in ArcGIS Pro, Spatial Modeling with Raster, Cartography, Remote Sensing, LiDAR, Landsat Imagery, Photogrammetry, and GIS programming with Python.  
 &nbsp;
 
 ___
@@ -36,15 +36,17 @@ ___
 &nbsp;
 
 ___
-## __Interships__
+## __Internships__
 
 ### __Environmental Data Science Innovation & Impact Lab (ESIIL)__ 
 
 #### For our project, we analyzed the how changes in climate, population, and agriculture have influenced hydrologic patterns across Colorado. This was an intensive research project with a focus on utilizing Python coding language to perform complicated calculations and produce interactive HTML maps and figures. Database management was a large part of the process and required great attention to detail.
 
 &nbsp;
+#### <a href="https://cires.colorado.edu/news/esiil-stars-increases-data-science-literacy-through-intensive-summer-internship-program" target="_blank">CIRES Article About Internship</a>
+&nbsp;
 
-#### <a href="https://lakevs14.github.io/ESIIL/" target="_blank">Spatiotemporal Trends in Colorado’s Hydrologic Systems</a>
+#### <a href="https://lakevs14.github.io/ESIIL/" target="_blank">Project Website: Spatiotemporal Trends in Colorado’s Hydrologic Systems</a>
 
 &nbsp;
 ___
