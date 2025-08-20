@@ -36,6 +36,18 @@ ___
 &nbsp;
 
 ___
+##__Interships__
+
+### __Environmental Data Science Innovation & Impact Lab (ESIIL)__ 
+
+#### For our project, we analyzed the how changes in climate, population, and agriculture have influenced hydrologic patterns across Colorado. This was an intensive research project with a focus on utilizing Python coding language to perform complicated calculations and produce interactive HTML maps and figures. Database management was a large part of the process and required great attention to detail.
+
+&nbsp;
+
+#### <a href="https://lakevs14.github.io/ESIIL/" target="_blank">Spatiotemporal Trends in Colorado’s Hydrologic Systems</a>
+
+&nbsp;
+___
 
 ## __Projects__
 &nbsp;
